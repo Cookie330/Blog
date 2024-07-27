@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.Bt9cqVig.js";const F=JSON.parse('{"title":"Log界面","description":"","frontmatter":{},"headers":[],"relativePath":"QT/QT代码/日志界面.md","filePath":"QT/QT代码/日志界面.md"}'),l={name:"QT/QT代码/日志界面.md"},p=n("",4),h=[p];function k(e,t,r,E,d,g){return a(),i("div",null,h)}const c=s(l,[["render",k]]);export{F as __pageData,c as default};

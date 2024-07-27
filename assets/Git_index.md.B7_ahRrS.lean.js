@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Bt9cqVig.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"Git/index.md","filePath":"Git/index.md"}'),n={name:"Git/index.md"};function o(r,i,c,s,d,p){return a(),t("div")}const f=e(n,[["render",o]]);export{m as __pageData,f as default};
