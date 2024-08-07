@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a5 as r}from"./chunks/framework.Dvw3FbWD.js";const f=JSON.parse('{"title":"资料","description":"","frontmatter":{},"headers":[],"relativePath":"音视频/音视频基础.md","filePath":"音视频/音视频基础.md"}'),a={name:"音视频/音视频基础.md"},n=r("",6),l=[n];function s(i,p,_,h,g,c){return o(),e("div",null,l)}const m=t(a,[["render",s]]);export{f as __pageData,m as default};
