@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a5 as n}from"./chunks/framework.Dvw3FbWD.js";const b=JSON.parse('{"title":"netstat","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/常用操作.md","filePath":"Linux/常用操作.md"}'),e={name:"Linux/常用操作.md"},l=n("",38),p=[l];function h(t,r,d,k,c,o){return i(),a("div",null,p)}const g=s(e,[["render",h]]);export{b as __pageData,g as default};
